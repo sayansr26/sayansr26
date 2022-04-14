@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @sayansr26
-- 👀 I’m interested in flutter development & web development with native codes
-- 🌱 I’m currently learning react js pro featurees
-- 💞️ I’m looking to collaborate on flutter development
-- 📫 How to reach me join me on whatsapp @ 7685808763
+⭐Full Time Freelancer, open to work 12 hours/day & 7 days/week.
+⭐Flutter mobile apps, Websites and Laravel API.
+⭐10 years coding Expertise ⭐Open to interview and screening questions for all my skills. 
+⭐Pricing very reasonable
 
-<!---
-sayansr26/sayansr26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Sayan Choudhury. I have been coding for last 10 years and have made 100's of mobile apps and website.
+
+My main skills are as follows ( Highly skilled in each of the below mentioned- open to interview on any)
+
+Flutter Mobile app
+Laravel API
+Firebase
+React JS
+JS
+HTML
+PHP
+MySQL database
+Mongo DB.
+
+Coding is my passion and I endeavour to create great things for you.
